@@ -16,6 +16,6 @@
     "modulr": "git://github.com/cpojer/modulr-node.git",
     "handlebars": "~1.0.12",
     "watch": "~0.8.0",
-    "shelljs": "~0.1.4"
+    "shelljs": "~0.8.4"
   }
 }
